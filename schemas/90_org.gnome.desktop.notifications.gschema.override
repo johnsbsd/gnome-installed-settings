@@ -1,0 +1,3 @@
+[org.gnome.desktop.notifications]
+show-banners=false
+show-in-lock-screen=false
