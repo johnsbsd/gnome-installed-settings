@@ -1,2 +1,2 @@
 [org.gnome.desktop.input-sources]
-sources=[('xkb','us+std')]
+sources=[('xkb','us+std'), ('xkb','us')]
